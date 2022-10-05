@@ -1,0 +1,94 @@
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Open Sans Light'), local('OpenSans-Light'), url(https://fonts.gstatic.com/s/opensans/v13/DXI1ORHCpsQm3Vp6mXoaTXhCUOGz7vYGh680lGh-uXM.woff) format('woff');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans'), local('OpenSans'), url(https://fonts.gstatic.com/s/opensans/v13/cJZKeOuBrn4kERxqtaUH3T8E0i7KZn-EPnyo3HZu7kw.woff) format('woff');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Open Sans Semibold'), local('OpenSans-Semibold'), url(https://fonts.gstatic.com/s/opensans/v13/MTP_ySUJH_bn48VBG8sNSnhCUOGz7vYGh680lGh-uXM.woff) format('woff');
+}
+
+html {
+  font-family: 'Open Sans';
+}
+
+/* This one hides the default heading added by Pandoc to the document */
+header#title-block-header {
+  display: none;
+}
+
+img {
+  max-width: 100%;
+}
+
+.container {
+  max-width: 70%;
+  margin: auto;
+}
+
+.leftcol {
+    max-width: 6cm;
+    padding: 5px;
+    height: auto;
+    float: left;
+    text-align: center;
+}
+
+.rightcol {
+    float: left;
+    padding: 5px;
+    margin-left: 1cm;
+}
+
+.avatar {
+  border-radius: 50%;
+}
+
+.multicol {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.col {}
+
+/*
+  https://fontawesome.com/v5/docs/web/style/
+  https://jpswalsh.github.io/academicons/
+*/
+.fa, .ai {
+  padding: 10px;  
+  text-align: center;
+  margin: 5px 2px;  
+  font-size: 30px;  
+  width: 30px;  
+}  
+
+a.fa-twitter:link, a.fa-twitter:visited, a.fa-twitter:hover {
+  color: #55ACEE;  
+  text-decoration: none;
+}
+
+a.fa-instagram:link, a.fa-instagram:visited, a.fa-instagram:hover {
+  color: #125688;  
+  text-decoration: none;
+}
+
+a.fa-linkedin:link, a.fa-linkedin:visited, a.fa-linkedin:hover {
+  color: #007bb5;  
+  text-decoration: none;
+}
+
+a.ai-google-scholar:link, a.ai-google-scholar:visited, a.ai-google-scholar:hover {
+  color: #007bb5;  
+  text-decoration: none;
+}

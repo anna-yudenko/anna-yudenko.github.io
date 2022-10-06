@@ -1,5 +1,8 @@
 ---
 title: Anna Yudenko
+lang: en-GB
+nocite: |
+  @*
 ...
 
 ::: { .container }
@@ -45,8 +48,8 @@ I'm Anna, a biophysicist working at Moscow Institute of Physics and Tecnnology (
 
 ## Publications
 
-- Publication.
-- Some other publication.
+::: { #refs }
+:::
 
 :::
 

@@ -25,24 +25,24 @@ Biophysicist
 
 # About me
 
-I'm Anna, a biophysicist working at Moscow Institute of Physics and Tecnnology (MIPT).
+I'm Anna, a biophysicist with background in Solid-state Physics. I work as a
+researcher in Laboratory of Structural Analysis and Engineering of Membrane
+Systems.
 
-::: { .multicol }
+I completed my PhD at Moscow Institute of Physics and Technology, where
+I studied flavin-binding fluorescent proteins and engineered fluorescent
+microscopy tools based on them.
 
-::: { .col }
-### Interests
-- Protein Engineering
-- Biophysics
-- Synthetic biology
-:::
+I'm very interested in Protein Engineering and Synthetic biology.
 
-::: { .col .education }
 ### Education
+
 - []{ .fa-solid .fa-graduation-cap } PhD in Biophysics, Sep 2022
 
   ::: { .institution }
   Research Center for Molecular Mechanisms of Aging and Age-Related Diseases
   :::
+
 - []{ .fa-solid .fa-graduation-cap } MSc in Solid state Physics, 2011 — 2013
 
   ::: { .institution }
@@ -53,9 +53,6 @@ I'm Anna, a biophysicist working at Moscow Institute of Physics and Tecnnology (
   ::: { .institution }
   Peter the Great Saint-Petersburg Polytechnic University
   :::
-:::
-
-:::
 
 ## Publications
 

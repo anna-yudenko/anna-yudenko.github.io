@@ -43,12 +43,12 @@ I'm very interested in Protein Engineering and Synthetic biology.
   Research Center for Molecular Mechanisms of Aging and Age-Related Diseases
   :::
 
-- []{ .fa-solid .fa-graduation-cap } MSc in Solid state Physics, 2011 — 2013
+- []{ .fa-solid .fa-graduation-cap } MSc in Solid-state Physics, 2011 — 2013
 
   ::: { .institution }
   Alferov University of the Russian Academy of Sciences
   :::
-- []{ .fa-solid .fa-graduation-cap } BSc in Solid state Physics, 2007 — 2011
+- []{ .fa-solid .fa-graduation-cap } BSc in Solid-state Physics, 2007 — 2011
 
   ::: { .institution }
   Peter the Great Saint-Petersburg Polytechnic University

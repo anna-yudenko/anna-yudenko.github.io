@@ -33,7 +33,7 @@ I completed my PhD at Moscow Institute of Physics and Technology, where
 I studied flavin-binding fluorescent proteins and engineered fluorescent
 microscopy tools based on them.
 
-I'm very interested in Protein Engineering and Synthetic biology.
+I'm very interested in Protein Engineering and Synthetic Biology.
 
 ### Education
 

@@ -77,21 +77,20 @@ img {
   margin-top: 0px;
 }
 
-/*
-  https://fontawesome.com/v5/docs/web/style/
-  https://jpswalsh.github.io/academicons/
-*/
-.fa, .ai, .icon {
-  padding: 10px;  
-  text-align: center;
-  margin: 5px 2px;  
-  font-size: 30px;  
+.social-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  gap: 10px;
+}
+
+.icon {
   width: 30px;  
 }
 
-a.ai-google-scholar:link, a.ai-google-scholar:visited, a.ai-google-scholar:hover {
-  color: #007bb5;  
-  text-decoration: none;
+.scholar {
+  /* This is #007bb5 generated using https://codepen.io/sosuke/pen/Pjoqqp */
+  filter: invert(29%) sepia(71%) saturate(1623%) hue-rotate(173deg) brightness(101%) contrast(101%);
 }
 
 .twitter {

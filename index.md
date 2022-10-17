@@ -16,9 +16,13 @@ Biophysicist
 
 [Laboratory of structural analysis and engineering of membrane systems, MIPT](https://cmm-mipt.ru/gushchin-lab/)
 
-[](https://scholar.google.com/citations?user=OJ8lAXcAAAAJ&hl=en&oi=ao){ .ai .ai-google-scholar }
-[![](static/icons/twitter.svg)](https://twitter.com/Aynya5){ .icon .twitter }
-[![](static/icons/instagram.svg)](https://www.instagram.com/ann_yudenko/){ .icon .instagram }
+::: { .social-container }
+[![](static/icons/academicons/google-scholar.svg){ .icon .scholar }](https://scholar.google.com/citations?user=OJ8lAXcAAAAJ&hl=en&oi=ao)
+
+[![](static/icons/lucide/twitter.svg){ .icon .twitter }](https://twitter.com/Aynya5)
+
+[![](static/icons/lucide/instagram.svg){ .icon .instagram }](https://www.instagram.com/ann_yudenko/)
+:::
 :::
 
 ::: { .rightcol }
@@ -37,18 +41,18 @@ I'm very interested in Protein Engineering and Synthetic Biology.
 
 ### Education
 
-- ![](static/icons/graduation-cap.svg){ .inline-icon } PhD in Biophysics, Sep 2022
+- ![](static/icons/lucide/graduation-cap.svg){ .inline-icon } PhD in Biophysics, Sep 2022
 
   ::: { .institution }
   Research Center for Molecular Mechanisms of Aging and Age-Related Diseases
   :::
 
-- ![](static/icons/graduation-cap.svg){ .inline-icon } MSc in Solid-state Physics, 2011 — 2013
+- ![](static/icons/lucide/graduation-cap.svg){ .inline-icon } MSc in Solid-state Physics, 2011 — 2013
 
   ::: { .institution }
   Alferov University of the Russian Academy of Sciences
   :::
-- ![](static/icons/graduation-cap.svg){ .inline-icon } BSc in Solid-state Physics, 2007 — 2011
+- ![](static/icons/lucide/graduation-cap.svg){ .inline-icon } BSc in Solid-state Physics, 2007 — 2011
 
   ::: { .institution }
   Peter the Great Saint-Petersburg Polytechnic University

@@ -81,30 +81,36 @@ img {
   https://fontawesome.com/v5/docs/web/style/
   https://jpswalsh.github.io/academicons/
 */
-.fa, .ai {
+.fa, .ai, .icon {
   padding: 10px;  
   text-align: center;
   margin: 5px 2px;  
   font-size: 30px;  
   width: 30px;  
-}  
-
-a.fa-twitter:link, a.fa-twitter:visited, a.fa-twitter:hover {
-  color: #55ACEE;  
-  text-decoration: none;
-}
-
-a.fa-instagram:link, a.fa-instagram:visited, a.fa-instagram:hover {
-  color: #125688;  
-  text-decoration: none;
-}
-
-a.fa-linkedin:link, a.fa-linkedin:visited, a.fa-linkedin:hover {
-  color: #007bb5;  
-  text-decoration: none;
 }
 
 a.ai-google-scholar:link, a.ai-google-scholar:visited, a.ai-google-scholar:hover {
   color: #007bb5;  
   text-decoration: none;
+}
+
+.twitter {
+  /* This is #55ACEE generated using https://codepen.io/sosuke/pen/Pjoqqp */
+  filter: invert(73%) sepia(78%) saturate(3047%) hue-rotate(179deg) brightness(97%) contrast(92%);
+}
+
+.instagram {
+  /* This is #125688 generated using https://codepen.io/sosuke/pen/Pjoqqp */
+  filter: invert(18%) sepia(91%) saturate(2126%) hue-rotate(189deg) brightness(88%) contrast(86%);
+}
+
+.inline-icon {
+  /* This aligns icon with text just like https://blog.prototypr.io/align-svg-icons-to-text-and-say-goodbye-to-font-icons-d44b3d7b26b4
+   * recommends. */
+  display: inline-flex;
+  align-self: center;
+  height: 1.3em;
+  width: 1.3em;
+  bottom: -0.200em;
+  position: relative;
 }

@@ -8,7 +8,7 @@ nocite: |
 ::: { .container }
 
 ::: { .leftcol }
-![](profile.webp){ .avatar }
+![](static/profile.webp){ .avatar }
 
 ## Anna Yudenko
 

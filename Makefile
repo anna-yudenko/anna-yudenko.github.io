@@ -1,7 +1,7 @@
-index.html: index.md pandoc.css style.css header.html papers.bib nature.csl
+index.html: index.md static/style.css header.html papers.bib nature.csl
 	pandoc -o $@ index.md --standalone \
 	--include-in-header=header.html \
-	--css style.css \
+	--css static/style.css \
 	--citeproc \
 	--bibliography papers.bib \
 	--csl nature.csl \

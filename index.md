@@ -41,7 +41,7 @@ I'm very interested in Protein Engineering and Synthetic Biology.
 
 ### Education
 
-- ![](static/icons/lucide/graduation-cap.svg){ .inline-icon } PhD in Biophysics, Sep 2022
+- ![](static/icons/lucide/graduation-cap.svg){ .inline-icon } PhD in Biophysics, Sept 2022
 
   ::: { .institution }
   Research Center for Molecular Mechanisms of Aging and Age-Related Diseases

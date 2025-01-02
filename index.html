@@ -11,8 +11,11 @@
     div.columns{display: flex; gap: min(4vw, 1.5em);}
     div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
     ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
       width: 0.8em;
       margin: 0 0.8em 0.2em -1.6em;
       vertical-align: middle;
@@ -22,6 +25,7 @@
     div.csl-bib-body { }
     div.csl-entry {
       clear: both;
+      margin-bottom: 0em;
     }
     .hanging-indent div.csl-entry {
       margin-left:2em;
@@ -40,9 +44,6 @@
     }  </style>
   <link rel="stylesheet" href="static/style.css" />
   <link rel="icon" type="image/svg+xml" href="static/tomato.svg">
-  <!--[if lt IE 9]>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
-  <![endif]-->
 </head>
 <body>
 <header id="title-block-header">
@@ -96,8 +97,8 @@ class="inline-icon" /> BSc in Solid-state Physics, 2007 — 2011</p>
 </div></li>
 </ul>
 <h2 id="publications">Publications</h2>
-<div id="refs" class="references csl-bib-body" data-line-spacing="2"
-role="list">
+<div id="refs" class="references csl-bib-body" data-entry-spacing="0"
+data-line-spacing="2" role="list">
 <div id="ref-yudenko2021rational" class="csl-entry" role="listitem">
 <div class="csl-left-margin">1. </div><div
 class="csl-right-inline">Yudenko, A., Smolentseva, A., Maslov, I.,

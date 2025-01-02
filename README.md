@@ -23,6 +23,8 @@ Make changes and rebuild the website:
 
 3. View the `index.html` using Safari/Firefox to see the result.
 
+4. Repeat the steps 1-3 until you're satisfied with the changes.
+
 Upload the changes to Github:
 
 1. Open Github graphical app, use its interface to commit the changes and push them to Github.
